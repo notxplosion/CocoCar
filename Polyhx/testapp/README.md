@@ -1,6 +1,7 @@
 # testapp
 
-A new Flutter project.
+A new Flutter project. (CocoCar)
+Main program in testapp\lib
 
 ## Getting Started
 
